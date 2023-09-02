@@ -6,7 +6,7 @@
 I'm a Software Engineer based in Bangalore, India.<br>
 ⚙️ I daily use: HTML, CSS, Javascript, Angular, Express.<br>
 🌱 Currently learning all about Docker and Kubernetes.<br>
-⚡ I really enjoy making things easy to use and I like contirbuting to open source.<br>
+⚡ I really enjoy making things easy to use and I like contributing to open source.<br>
 💻 I love to develop interactive and artistically pleasing web pages.<br>
 📫 How to reach me: syedhannan546@gmail.com
 
