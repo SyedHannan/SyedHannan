@@ -22,12 +22,12 @@ I'm a Software Engineer based in Bangalore, India.<br>
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=syedhannan&count_private=true&theme=tokyonight&showicons=true)]() -->
 
-![](https://github-readme-stats.vercel.app/api?username=syedhannan&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=syedhannan&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![Hannan's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=syedhannan&combine_all_yearly_contributions=true&limit=10)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syedhannan&theme=light&hide_border=false)<br/>
 
 #### Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedhannan&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhannan&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=syedhannan&langs_count=5)]() -->
